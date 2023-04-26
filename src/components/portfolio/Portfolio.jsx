@@ -15,10 +15,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank">
+            <a href="https://github.com" className="btn" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
-            <a href="https://github.com" className="btn btn-primary" target="_blank">
+            <a href="https://github.com" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
               GitHub project1
             </a>
           </div>
@@ -29,10 +29,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank">
+            <a href="https://github.com" className="btn" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
-            <a href="https://github.com" className="btn btn-primary" target="_blank">
+            <a href="https://github.com" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
               GitHub project1
             </a>
           </div>
@@ -43,10 +43,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target="_blank">
+            <a href="https://github.com" className="btn" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
-            <a href="https://github.com" className="btn btn-primary" target="_blank">
+            <a href="https://github.com" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
               GitHub project1
             </a>
           </div>
