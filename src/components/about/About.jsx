@@ -23,12 +23,12 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>6+ Years Working Experience</small>
+              <small>7+ Years Working Experience</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>300+ clients worldwide</small>
+              <small>4+ clients worldwide</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -36,7 +36,10 @@ const About = () => {
               <small>50 Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est harum totam optio blanditiis, magni natus voluptatum facilis eveniet dolorum facere. At quae rem error ipsum, enim velit adipisci harum? Minima!</p>
+          <p>
+            I am an experienced Java/J2EE Developer with expertise in Spring Frameworks, Hibernate, SOAP/RESTful web services, and front-end technologies. I have a strong understanding of OOP concepts and experience working with relational and NoSQL databases. I have designed and implemented event-driven architectures using Kafka and am proficient in GitLab/SVN, unit testing, and containerization using Docker/Kubernetes. I have implemented CI/CD pipelines using Jenkins and configured Kubernetes clusters for high availability and auto-scaling. I have a strong understanding of DevOps principles
+            and experience configuring AWS infrastructure for cloud management.
+          </p>
 
           <a href="#contact" className="btn btn-primary">
             Let's Talk

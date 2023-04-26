@@ -33,10 +33,10 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https://linkedin.com">
+        <a href="https://www.linkedin.com/in/hrushidhar-inampudi-0320b8260/">
           <AiFillLinkedin />
         </a>
-        <a href="https://github.com">
+        <a href="https://github.com/hinampudi">
           <AiFillGithub />
         </a>
       </div>
